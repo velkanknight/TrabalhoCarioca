@@ -3,4 +3,5 @@ TrabalhoCarioca
 
 Trabalho P4
 
-Nemt odo professor é viado, mas o Carioca é. 
+Nem todo professor é viado, mas o Carioca é. 
+Torel dá o boga raspadinho
